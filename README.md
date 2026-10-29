@@ -4,7 +4,7 @@ a collection of my personal CS2 configuration files
 the autoexec is a configuration file that is executed on boot, it defines things such as my crosshair, keybinds, sensitivity, and some other miscellaneous things
 ## practice.cfg
 the practice configuration file is intended to help finding wallbangs and practicing utility and recoil control easier
-## falshcardtoggle.cfg
+## flashcardtoggle.cfg
 the flashcard toggle configuration file is intended to replace my crosshair and toggle my hud to help me take screenshots intended for Anki flashcards to learn utility
 
 note: when recording videos, `sv_grenade_trajectory_prac_pipreview` has to be set to 0 as well
